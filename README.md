@@ -26,20 +26,20 @@ cd Connectverse
 
 Install Dependencies
 Backend
-->cd backend
+->cd .\backend\ 
 ->npm install
 
 Frontend
-->cd ../frontend
+->cd .\frontend\
 ->npm install
 
 Running the Application
 Start the Backend Server
-->cd backend
+->cd .\backend\ 
 ->npm start
 
 Start the Frontend Application
-->cd ../frontend
+->cd .\frontend\
 ->npm start
 Access the application at http://localhost:3000
 
